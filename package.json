@@ -1,0 +1,26 @@
+{
+  "name": "fantasy-map-generator",
+  "version": "1.0.0",
+  "description": "Azgaar's _Fantasy Map Generator_ is a free client-side web application generating interactive and highly customizable svg maps based on voronoi diagram.",
+  "main": "main.js",
+  "dependencies": {
+    "d3": "^6.5.0"
+  },
+  "devDependencies": {
+    "snowpack": "^3.0.11"
+  },
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azgaar/Fantasy-Map-Generator.git"
+  },
+  "author": "Azgaar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Azgaar/Fantasy-Map-Generator/issues"
+  },
+  "homepage": "https://github.com/Azgaar/Fantasy-Map-Generator#readme"
+}
